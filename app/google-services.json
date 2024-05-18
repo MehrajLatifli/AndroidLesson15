@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "449009300464",
+    "project_id": "androidkotlinmvvm",
+    "storage_bucket": "androidkotlinmvvm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449009300464:android:6953ecfcbe944227d86335",
+        "android_client_info": {
+          "package_name": "com.example.androidlesson15"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyT55ZOIs0y0vOep9kAh3xICL4fPjiRk4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
